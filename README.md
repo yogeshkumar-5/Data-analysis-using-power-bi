@@ -45,7 +45,12 @@ This project analyzes bank loan data using **MS SQL Server** and **Power BI** to
 
 
 ## Dashboard Preview  
-![Loan Analysis Dashboard](images/dashboard_screenshot.png)  
+![image](https://github.com/user-attachments/assets/c62e5742-31e0-464d-a57a-cdfadedd91ca)
+![image](https://github.com/user-attachments/assets/03f674d1-dddf-4f60-bf9e-73a200297d1c)
+![image](https://github.com/user-attachments/assets/4dd432c8-554d-432d-8409-284043073477)
+
+
+
 
 ## Business Insights & Recommendations
 - **Loan Performance**: Loans with lower DTI ratios perform better.
