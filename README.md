@@ -14,21 +14,6 @@ This project analyzes bank loan data using **MS SQL Server** and **Power BI** to
 - **Visualization:** Power BI (February 2025 Version), Tableau (for comparison)
 - **Data Processing:** Microsoft Excel 2024
 
-## Project Setup
-
-## Dataset Description
-The dataset contains historical bank loan records, including borrower details, loan status, and financial metrics.
-- **Columns:** Loan ID, Applicant Income, Loan Amount, Loan Status, Interest Rate, Debt-to-Income Ratio (DTI), Employment Length, etc.
-- **Source:** [Specify the source if publicly available]
-- **Preprocessing:** Missing values handled, data normalization, outliers removed.  
-1. 📝 Clone this repository:  
-   ```bash
-   git clone https://github.com/your-repo/bank-loan-analysis.git
-   ```  
-2. 🖥 Install Microsoft SQL Server and SSMS.  
-3. 📥 Import the dataset and execute the provided SQL scripts.  
-4. 📡 Open Power BI and connect it to the SQL database.  
-5. 📊 Load data and explore the dashboards.  
 
 ## Data Processing & Analysis
 ### 1. **MS SQL Server - Data Cleaning & Querying**
