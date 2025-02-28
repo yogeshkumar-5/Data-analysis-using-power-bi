@@ -59,7 +59,4 @@ This project analyzes bank loan data using **MS SQL Server** and **Power BI** to
 - **Employment-based Approvals**: Longer job tenure improves repayment rates.
 
 
-## Future Improvements
-- Implement **Machine Learning Models** for loan default prediction.
-- Integrate **real-time loan data streaming**.
-- Enhance **user interactivity** with Power BI reports.
+
