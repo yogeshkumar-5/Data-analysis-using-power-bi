@@ -58,17 +58,6 @@ The dataset contains historical bank loan records, including borrower details, l
 - Provides **comprehensive loan insights** 🏦 for decision-makers.
 - Enhances transparency with **real-time metrics** 📊.
 
-## Sample SQL Query  
-```sql
-SELECT loan_status, COUNT(*) AS total_loans
-FROM bank_loans
-GROUP BY loan_status;
-```
-
-## API Integration
-- The project integrates with a live financial API to fetch real-time loan interest rates.
-- API Endpoint: `https://api.example.com/loans`
-- Authentication: API Key-based authentication
 
 ## Dashboard Preview  
 ![Loan Analysis Dashboard](images/dashboard_screenshot.png)  
@@ -79,21 +68,8 @@ GROUP BY loan_status;
 - **Interest Rate Optimization**: High interest rates correlate with higher defaults.
 - **Employment-based Approvals**: Longer job tenure improves repayment rates.
 
-## How to Contribute
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`
-3. Make your changes and commit them: `git commit -m "Added new feature"`
-4. Push to the branch: `git push origin feature-branch`
-5. Open a Pull Request.
 
 ## Future Improvements
 - Implement **Machine Learning Models** for loan default prediction.
 - Integrate **real-time loan data streaming**.
 - Enhance **user interactivity** with Power BI reports.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-- **[Your Name]**
-- **[Your Contact Info]**
