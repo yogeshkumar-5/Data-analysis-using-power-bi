@@ -17,27 +17,27 @@ This project analyzes bank loan data using **MS SQL Server** and **Power BI** to
 
 ## Data Processing & Analysis
 ### 1. **MS SQL Server - Data Cleaning & Querying**
-- 🛠 **Data Import**: Using MS SQL Server
-- 🏗 **Database Creation**
-- 📜 **SQL Queries** for Business Problem Solving
-- 🧹 **Data Cleaning**: Handling missing values, incorrect data types, duplicates
-- ⚡ **Query Optimization**: Using Joins, Aggregate Functions, CTEs, Window Functions
+-  **Data Import**: Using MS SQL Server
+-  **Database Creation**
+-  **SQL Queries** for Business Problem Solving
+-  **Data Cleaning**: Handling missing values, incorrect data types, duplicates
+-  **Query Optimization**: Using Joins, Aggregate Functions, CTEs, Window Functions
 
 ### 2. **Power BI - Data Visualization & Reporting**
 #### **Dashboard 1: Summary**
 - **KPIs:**
-  - 📌 Total Loan Applications (MTD, MoM Tracking)
-  - 💰 Total Funded Amount & Amount Received
-  - 📉 Average Interest Rate & Debt-to-Income Ratio (DTI)
+  -  Total Loan Applications (MTD, MoM Tracking)
+  -  Total Funded Amount & Amount Received
+  -  Average Interest Rate & Debt-to-Income Ratio (DTI)
 
 #### **Dashboard 2: Overview**
 - **Key Visuals:**
-  - 📆 Monthly Trends (Line Chart)
-  - 🌍 Regional Loan Distribution (Map Visualization)
-  - 📊 Loan Term Analysis (Donut Chart)
-  - 👔 Employment Length vs. Loan Approval (Bar Chart)
-  - 💳 Loan Purpose Breakdown (Bar Chart)
-  - 🏡 Home Ownership Impact (Tree Map)
+  -  Monthly Trends (Line Chart)
+  -  Regional Loan Distribution (Map Visualization)
+  -  Loan Term Analysis (Donut Chart)
+  -  Employment Length vs. Loan Approval (Bar Chart)
+  -  Loan Purpose Breakdown (Bar Chart)
+  -  Home Ownership Impact (Tree Map)
 
 #### **Dashboard 3: Loan Details**
 - Provides **comprehensive loan insights** 🏦 for decision-makers.
