@@ -45,10 +45,10 @@ This project analyzes bank loan data using **MS SQL Server** and **Power BI** to
 
 
 ## Dashboard Preview  
-![image](https://github.com/user-attachments/assets/c62e5742-31e0-464d-a57a-cdfadedd91ca)
-![image](https://github.com/user-attachments/assets/03f674d1-dddf-4f60-bf9e-73a200297d1c)
-![image](https://github.com/user-attachments/assets/4dd432c8-554d-432d-8409-284043073477)
 
+![Screenshot 2025-03-01 195608](https://github.com/user-attachments/assets/d7644b08-5ef3-442f-913b-ea894e684d07)
+![Screenshot 2025-03-01 195544](https://github.com/user-attachments/assets/9b6cb4f7-34b6-4f02-bab5-ec33d710b632)
+![Screenshot 2025-03-01 195626](https://github.com/user-attachments/assets/763789df-a494-4599-b0f6-be85d3854bbf)
 
 
 
